@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhra Mondal</h1>
-<h3 align="center">A passionate Full_Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abhra Mondal </h1>
+<h3 align="center">A Full Stack Developer with knowledge of Javascript, HTML, CSS, React and have experience of 1,200+ hours of deliberate intense coding practice.</h3>
 <img align="right" width="400" alt="coding in process" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhra11&label=Profile%20views&color=0e75b6&style=flat-square" alt="abhra11" /> </p>
